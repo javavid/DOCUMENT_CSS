@@ -151,4 +151,22 @@ background: #FFFF00;
  }*/
 
 
+ .leopardo{
+    margin: 25px;
+    width: 500px;
+    height: 700px;
+ }
+
+ .leopardo img{
+    height: 100px;
+    width: 100px;
+    border: 3px solid salmon;
+    object-fit: contain;
+    /*- con (contain) la imagen se ajusta a las resoluciones reales lo cual no se ajusta al contenedor.
+      - con (cover) la imagen se ajusta al contenedor y recorta lo demas.
+      - con (none) none actua como si fuese la imagen original.
+      - con (scale-down) se adapta a la que mas le conviene.
+    */
+ }
+
  
