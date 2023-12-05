@@ -45,11 +45,17 @@ display: block;
 
 .caja2{
     background-color: #009999;
+    position: relative;
+    top: 43px;
+    left: 20px;
+    z-index: 1; /*todas las cajas tienen valor cero, y con z-index  le damos un valor para que seposiciones de lante de las otras siempre y cuando esten posisicionadas. */
+    
 }
 
 
 .caja3{
     background-color: #FFFF00;
+    position: relative;
 }
 
 
