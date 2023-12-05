@@ -191,3 +191,40 @@ background: #FFFF00;
 
 
  }*/
+
+ .nav__responsive-ul{
+    display: none;
+ }
+
+ .nav{
+    background-color: #CCFFCC;
+ }
+
+ .nav__li{
+    display: inline-block;
+    padding: 12px;
+    color: #006666;
+ }
+
+ .nav__li:hover > a {
+    color: #99FFFF;
+    
+
+ }
+
+ .nav__li:hover {
+    color: darkcyan;
+ }
+
+ .nav__li a {
+    color: #003333;
+    text-decoration: none;
+
+ }
+
+
+.nav__li i{
+    box-sizing: border-box;
+    text-align: right;
+    margin-right: 5px;
+}
