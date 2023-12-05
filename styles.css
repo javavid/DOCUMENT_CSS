@@ -192,7 +192,7 @@ background: #FFFF00;
 
  }*/
 
- .nav__responsive-ul{
+ /*.nav__responsive-ul{
     display: none;
  }
 
@@ -228,3 +228,33 @@ background: #FFFF00;
     text-align: right;
     margin-right: 5px;
 }
+
+@media only screen and  (max-widht: 500px) {
+   .nav ul{
+    display: none;
+   } 
+   .nav{
+    height: 37px;
+    width: 100%;
+    background-color: #CCFFFF;
+   }
+
+   .nav__responsive-ul{
+    display: block;
+    position: absolute;
+    width: 100%;
+    background: #99CCCC;
+    height: 200%;
+   }
+
+   .nav__responsive-li{
+    width: 100%;
+   }
+
+   .nav__responsive-li i {
+    box-sizing: border-box;
+    text-align: right;
+    margin-right: 5px;
+    width: 30px;
+   }
+}*/
