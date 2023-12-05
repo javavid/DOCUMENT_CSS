@@ -6,98 +6,97 @@ color: #FF0066;
 
 }*/
 
-.editar{
-    font-size: em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 2;
-    font-weight: 900;
-    color: #CC6600;
-}
+/*.editar{
+    font-size: em;/////
+    font-family: Georgia, 'Times New Roman', Times, serif;/////
+    line-height: 2;/////
+    font-weight: 900;/////
+    color: #CC6600;/////
+}*/
 
-h3{
-    background-color: #33FFFF;
-    display: inline-block;
-    padding: 30px 30px 30px 30px;
-    box-sizing: border-box;
-    text-align: center;
-    margin: 10px 10px 10px 10px;
-    border-radius: 16px;
-    border: 10px ridge #99FFFF;
-    box-shadow: 10px 10px 5px 5px #CCCCCC;
-    text-shadow: 2px 2px 7px #FFFF00, 2px 2px 7px #FFFF00;
-    transform: rotate(5deg);
-}
+/*h3{
+    background-color: #33FFFF;/////
+    display: inline-block;/////
+    padding: 30px 30px 30px 30px;/////
+    box-sizing: border-box;/////
+    text-align: center;/////
+    margin: 10px 10px 10px 10px;/////
+    border-radius: 16px;/////
+    border: 10px ridge #99FFFF;/////
+    box-shadow: 10px 10px 5px 5px #CCCCCC;/////
+    text-shadow: 2px 2px 7px #FFFF00, 2px 2px 7px #FFFF00;/////
+    transform: rotate(5deg);/////
+}*/
 
-div{
+/*div{*/
 
-background: #CC6600;
+/*background: #CC6600;/////*/
 /*margin: auto;*/
-display: block;
-position: absolute;
-}
+/*display: block;/////
+position: absolute;/////
+}*/
 
-div div{
-    height: 100px;
-    width: 100px;
-    background-color: #FFFF00;
-}
+/*div div{
+    height: 100px;/////
+    width: 100px;/////
+    background-color: #FFFF00;/////
+}*/
 
-.contenedor{
-    position: relative;
-    border: 4px solid #33FFFF;
-    margin: 50px auto;
-    height: 450px;
-    width: 450px;
+/*.contenedor{
+    position: relative;/////
+    border: 4px solid #33FFFF;/////
+    margin: 50px auto;/////
+    height: 450px;/////
+    width: 450px;/////
     
-}
+}*/
 
-.caja1{
-   /* background-color: #FF3333;*/
+/*.caja1{
    
-}
+}*/
 
-.caja2{
+/*.caja2{*/
    /* background-color: #009999;
     position: relative;
     top: 43px;
     left: 20px;*/
     /*z-index: 1; todas las cajas tienen valor cero, y con z-index  le damos un valor para que seposiciones de lante de las otras siempre y cuando esten posisicionadas. */
-    right: 0;
-}
+   /* right: 0;/////
+}*/
 
 
-.caja3{
+/*.caja3{*/
    /* background-color: #FFFF00;
     position: relative;*/
-    bottom: 0;
-}
+    /*bottom: 0;/////
+}*/
 
 
-.caja4{
+/*.caja4{*/
    /* background-color: #33FF33;*/
-   bottom: 0;
-   right: 0;
-}
+   /*bottom: 0;/////
+   right: 0;/////
+}*/
 
 
-.caja5{
-   top: 0;
-   right: 0;
-   bottom: 0;
-   left: 0;
-   margin: auto;
- }
+/*.caja5{
+   top: 0;/////
+   right: 0;/////
+   bottom: 0;/////
+   left: 0;/////
+   margin: auto;/////
+ }*/
 
 
- b{
-    background-color: #33FFFF;
-    display: inline-block;
-    padding: 10px 10px 10px 10px;
-    box-sizing: border-box;
-    margin: 10px 10px 10px 10px;
-    border-radius: 16px;
-    border: 10px ridge #99FFFF;
+ /*b{
+    background-color: #33FFFF;/////
+    display: inline-block;/////
+    padding: 10px 10px 10px 10px;/////
+    box-sizing: border-box;/////
+    margin: 10px 10px 10px 10px;/////
+    border-radius: 16px;/////
+    border: 10px ridge #99FFFF;/////
     
     
     
- }
+ }*/
