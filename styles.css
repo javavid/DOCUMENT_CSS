@@ -118,3 +118,17 @@ position: absolute;/////
  .segundaria{
 background: #FFFF00;
  }*/
+
+ .caja1{
+    height: 200px;
+    width: 200px;
+    background: #660066;
+    transition: all 1s;
+ }
+
+
+ .caja1:hover{
+    background: #FF3366;
+    height: 300px;
+    width: 300px;
+ }
