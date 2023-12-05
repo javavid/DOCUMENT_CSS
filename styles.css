@@ -1,0 +1,58 @@
+/*h1:hover{
+color: #FF0066;
+}*/
+
+/*.formulario__input{
+
+}*/
+
+.editar{
+    font-size: em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+    font-weight: 900;
+    color: #CC6600;
+}
+
+h3{
+    background-color: #33FFFF;
+    display: inline-block;
+    padding: 30px 30px 30px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    border-radius: 16px;
+    border: 10px ridge #99FFFF;
+    box-shadow: 10px 10px 5px 5px #CCCCCC;
+    text-shadow: 2px 2px 7px #FFFF00, 2px 2px 7px #FFFF00;
+    transform: rotate(5deg);
+}
+
+div{
+width: 120px;
+height: 120px;
+background: #CC6600;
+/*margin: auto;*/
+display: block;
+
+
+
+}
+
+.caja1{
+    background-color: #FF3333;
+}
+
+.caja2{
+    background-color: #009999;
+}
+
+
+.caja3{
+    background-color: #FFFF00;
+}
+
+
+.caja4{
+    background-color: #33FF33;
+}
