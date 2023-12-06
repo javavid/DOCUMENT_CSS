@@ -258,3 +258,19 @@ background: #FFFF00;
     width: 30px;
    }
 }*/
+
+.flex-contenedor{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-evenly;
+    height: 100vh;
+    align-content: flex-end;
+}
+
+.flex-item{
+    background-color: #FF3366;
+    margin: 5px;
+    min-width: 120px;
+    height: 120px;
+    text-align: center;
+}
