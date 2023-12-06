@@ -261,10 +261,8 @@ background: #FFFF00;
 
 .flex-contenedor{
     display: flex;
-    flex-wrap: wrap-reverse;
     justify-content: space-evenly;
     height: 100vh;
-    align-content: flex-end;
 }
 
 .flex-item{
@@ -281,4 +279,5 @@ background: #990000;
 
 .for{
 background: #990066;
+align-self: flex-end;
 }
