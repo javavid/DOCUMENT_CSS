@@ -294,6 +294,8 @@ body{
     background: #666666;
     margin: 50px 50px;
     padding: 20px;
+    border: 8px solid #000000;
+    outline: 5px solid #CCCCCC;
     
 }
 
@@ -302,14 +304,15 @@ body{
     flex: 1;
     text-align: right;
     padding: 30px;
+    order: 5;
 }
 
 .form__input{
     width: 100%;
-    padding: 5px;
-    margin: 5px 0;
+    padding: 10px;
+    margin: 10px 0;
     border: none;
-    border: 3px outset #CCCCCC;
+    border-bottom: 3px solid #999999;
     background: transparent;
 }
 
@@ -327,6 +330,9 @@ body{
     flex: 1;
     padding: 10px;
     display: flex;
+    min-width: 300px;
+    max-width: 400px;
+    order: 2;
     
 }
 
@@ -336,4 +342,10 @@ body{
     border-radius: 50%;
     background-color: white;
     padding: 20px;
+}
+
+.form input[type="submit"]{
+    background-color: #CCCCCC;
+    border-bottom: none;
+    padding: 12px;
 }
