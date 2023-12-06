@@ -259,7 +259,7 @@ background: #FFFF00;
    }
 }*/
 
-.flex-contenedor{
+/*.flex-contenedor{
     display: flex;
     justify-content: space-evenly;
     height: 100vh;
@@ -280,4 +280,5 @@ background: #990000;
 .for{
 background: #990066;
 align-self: flex-end;
-}
+}*/
+
